@@ -149,6 +149,7 @@ input:focus {
 }
 
 .box8 {
+    width: 100px;
     height: 42px;
     opacity: 1;
     display: flex;
