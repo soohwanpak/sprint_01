@@ -205,7 +205,7 @@ a.underline {
     text-decoration: underline;
 }
 
-.password-input {
+.input-password {
     background-image: url('../icon/pwicon1.svg');
     background-size: 24px 24px;
     background-repeat: no-repeat;
